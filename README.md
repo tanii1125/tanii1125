@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanii1125
-- 👀 I’m interested in Technical Writing 
-- 🌱 I’m currently learning "open source along with API documentation"
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently practising development
 - 💞️ I’m looking to "collaborate on More projects so that I can enhance my skills"
 - 📫 How to reach me "Here's my Gmail : dubeytanisha66@gmail.com"
 - 😄 Pronouns: she/her
